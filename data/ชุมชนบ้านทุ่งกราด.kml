@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>ชุมชนบ้านทุ่งกราด.kml</name>
+	<Style id="PolyStyle011">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>99ffffff</color>
+			<width>0.4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>99be69cf</color>
+		</PolyStyle>
+	</Style>
+	<Folder>
+		<name>ชุมชนบ้านทุ่งกราด</name>
+		<visibility>0</visibility>
+		<Placemark id="ID_00011">
+			<name>ชุมชนบ้านทุ่งกราด</name>
+			<visibility>0</visibility>
+			<open>1</open>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>ชุมชนบ้านทุ่งกราด</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>18</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>ชุมชนบ้านทุ่งกราด</td>
+
+</tr>
+
+<tr>
+
+<td>Name_Eng</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Moo</td>
+
+<td>8</td>
+
+</tr>
+
+<tr>
+
+<td>ตำบล</td>
+
+<td>บางละมุง</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle011</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								100.9373579800545,13.06084741823063,0 100.9372168560679,13.06151804250611,0 100.9371725491878,13.06209228884774,0 100.9374685959679,13.06252050572503,0 100.9374930350617,13.06263691510999,0 100.932136210054,13.06248442920638,0 100.9250740551957,13.06227862726922,0 100.9231086704308,13.06222131841648,0 100.9224035338616,13.06093524611585,0 100.9207951171695,13.06112655158806,0 100.9207310948948,13.06231073589094,0 100.9139665838233,13.06211535018786,0 100.9142056030001,13.06139427000007,0 100.9148870910001,13.05914595100007,0 100.9155462950001,13.05702356000005,0 100.916344108,13.05462829900007,0 100.9176182235409,13.05057343570767,0 100.9245547367543,13.05151126315638,0 100.9262955331868,13.04952546300689,0 100.92610120396,13.05163980169646,0 100.9272689084563,13.05159268771361,0 100.9280641314412,13.05191556882517,0 100.9285845049979,13.05218071347378,0 100.929198661397,13.05274407265809,0 100.9294021711556,13.05256173865223,0 100.9311722355855,13.05431645768103,0 100.9314532774137,13.05433939133306,0 100.9315887226781,13.0544176951472,0 100.9321883277218,13.05476433814373,0 100.9326318130465,13.05533494049154,0 100.9332711667904,13.05599973022821,0 100.9338118462702,13.05652177693721,0 100.9348909780921,13.05727892507427,0 100.9359701161739,13.05803606774268,0 100.9367081658732,13.05884358636546,0 100.9371081073897,13.06008407151595,0 100.9373579800545,13.06084741823063,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

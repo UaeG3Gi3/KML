@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>ชุมชนบ้านชากยายจีน.kml</name>
+	<Style id="PolyStyle09">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>99ffffff</color>
+			<width>0.4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>9962f062</color>
+		</PolyStyle>
+	</Style>
+	<Folder>
+		<name>ชุมชนบ้านชากยายจีน</name>
+		<visibility>0</visibility>
+		<Placemark id="ID_00009">
+			<name>ชุมชนบ้านชากยายจีน</name>
+			<visibility>0</visibility>
+			<open>1</open>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>ชุมชนบ้านชากยายจีน</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>10</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>ชุมชนบ้านชากยายจีน</td>
+
+</tr>
+
+<tr>
+
+<td>Name_Eng</td>
+
+<td>Ban Chak Yay Gin</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Moo</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>ตำบล</td>
+
+<td>เทศบาลนครแหลมฉบัง</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle09</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								100.9309196942571,13.1118683891339,0 100.9297275317495,13.11211765833177,0 100.9295914518961,13.11214611088908,0 100.9287297644447,13.11242935335532,0 100.9279871848301,13.11276254067879,0 100.9274763921418,13.11299159076026,0 100.9271929134211,13.1131187079356,0 100.9265871724195,13.11348476055185,0 100.9254329143914,13.11401492963411,0 100.9247719156263,13.11431853371071,0 100.9236693348229,13.1148272526778,0 100.9228376811708,13.1152695488194,0 100.922272518009,13.11530713484557,0 100.9203923163032,13.11543216823075,0 100.9191963881777,13.11551169028754,0 100.9177594637857,13.11560722980393,0 100.917128832783,13.11564915723048,0 100.9168624860823,13.1156668647948,0 100.9167325391562,13.11414865472373,0 100.9165348655654,13.11183910672788,0 100.9164888808764,13.11130182647624,0 100.9163792353063,13.11002072172028,0 100.9162523862981,13.10853858031732,0 100.9162512541827,13.10852535219774,0 100.916250983862,13.10852219365503,0 100.9161884750232,13.10779180954719,0 100.9183760464874,13.10920446157531,0 100.9215491614364,13.10939603338868,0 100.9236646901266,13.10951103143907,0 100.9241587487733,13.1097657264733,0 100.924596070397,13.10950407524056,0 100.925508402933,13.10930777613978,0 100.9266024665961,13.10859516538568,0 100.9281998397298,13.10926353250759,0 100.9289069616757,13.10953039328455,0 100.9293614682061,13.10970191812423,0 100.931162169723,13.11018551877404,0 100.9318345483628,13.11030168545449,0 100.9326118938824,13.11036086463909,0 100.9328592751337,13.11039862633697,0 100.9328839843179,13.10895202783094,0 100.9345030190088,13.10892826306438,0 100.9342101398962,13.1094956623151,0 100.9337004270575,13.11045601112385,0 100.933187647274,13.11102420811231,0 100.9322349196148,13.11149048737652,0 100.9315316356016,13.11176816325413,0 100.9315080252835,13.11174537287219,0 100.9309196942571,13.1118683891339,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

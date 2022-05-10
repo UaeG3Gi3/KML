@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>ชุมชนตลาดอ่าวอุดม.kml</name>
+	<Style id="PolyStyle03">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>99ffffff</color>
+			<width>0.4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>993f3dad</color>
+		</PolyStyle>
+	</Style>
+	<Folder>
+		<name>ชุมชนตลาดอ่าวอุดม</name>
+		<visibility>0</visibility>
+		<Placemark id="ID_00003">
+			<name>ชุมชนตลาดอ่าวอุดม</name>
+			<visibility>0</visibility>
+			<open>1</open>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>ชุมชนตลาดอ่าวอุดม</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>ชุมชนตลาดอ่าวอุดม</td>
+
+</tr>
+
+<tr>
+
+<td>Name_Eng</td>
+
+<td>Ao Udom Market</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Moo</td>
+
+<td>7</td>
+
+</tr>
+
+<tr>
+
+<td>ตำบล</td>
+
+<td>เทศบาลนครแหลมฉบัง</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle03</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								100.9145238222137,13.11091272787168,0 100.91646089552,13.11097484640419,0 100.9164888808764,13.11130182647624,0 100.9165348655654,13.11183910672788,0 100.9168624860823,13.1156668647948,0 100.9168643611677,13.11568877174391,0 100.9168714327534,13.11577139024224,0 100.9169269530905,13.11651959999724,0 100.9172769458676,13.12123600735783,0 100.9178134758369,13.12846544591417,0 100.91796484694,13.12975980604435,0 100.9182401812032,13.13211410661146,0 100.9183265307287,13.13418054237581,0 100.9178454853747,13.1356081185845,0 100.917633436435,13.13586058424514,0 100.9157032931859,13.13815858594286,0 100.915505889237,13.13823620512301,0 100.9137719657521,13.13827208516528,0 100.9095986096056,13.1380275042556,0 100.9074278732487,13.13520660714925,0 100.9072154762161,13.13467737377024,0 100.9060642037107,13.13125606586503,0 100.9059428067072,13.13003329702244,0 100.9059773048788,13.12843576308136,0 100.9060194495375,13.12666317486093,0 100.9060314393267,13.12626194481229,0 100.9083101594182,13.12624275837574,0 100.9086477730489,13.12614740231436,0 100.9084172385295,13.12592428882888,0 100.9083084890367,13.12579399172366,0 100.9089766930441,13.12577380167981,0 100.9078413965683,13.12409632907159,0 100.9075899506396,13.12312970148313,0 100.9076659320534,13.12190955645563,0 100.90788322255,13.12003074643433,0 100.9081002123103,13.11969435104308,0 100.9085819689892,13.11888968223159,0 100.9083218354127,13.11837747311143,0 100.9083153783542,13.11754055304093,0 100.9083531032993,13.11610547119121,0 100.9085867624198,13.11318630814746,0 100.9081964218764,13.11318920037242,0 100.907609439853,13.1122495531722,0 100.907221477193,13.1116253756804,0 100.9093801382552,13.11145308572344,0 100.9110847251138,13.11103391809101,0 100.9126671400379,13.11059173369702,0 100.9145238222137,13.11091272787168,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
